@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache/
+.pytest_cache/
+.DS_Store
+.env
+venv/
+.venv/
+.idea/
+.vscode/
+*.db
+.airflow/
+logs/
+spark-warehouse/
